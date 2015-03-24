@@ -83,15 +83,18 @@ BODY
 }
 
 	#primary {
+		clear: both;
 		width: 45%;
 		float: left;
 		margin: 1em 1em;
+		display: block;
 	}
 	
 	#secondary {
 		width: 45%;
 		float: right;
 		margin: 1em 1em;
+		display: block;
 	}
 /***************************************
 NAVAGATION
